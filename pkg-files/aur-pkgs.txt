@@ -1,6 +1,4 @@
 autojump
-brave-bin
-dxvk-bin
 github-desktop-bin
 lightly-git
 lightlyshaders-git
@@ -14,5 +12,7 @@ nordic-theme
 ocs-url
 sddm-nordic-theme-git
 snapper-gui-git
-ttf-meslo
 zoom
+freetube-bin
+molsketch
+yle-dl
