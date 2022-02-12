@@ -141,7 +141,6 @@ zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
 cmake
-own installations
 firefox
 chromium
 python
